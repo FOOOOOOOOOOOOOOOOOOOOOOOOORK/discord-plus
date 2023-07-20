@@ -10,7 +10,7 @@ A sleek, customizable Discord theme, inspired by Material.
 This theme is **very customizable**.
 The variables in the theme file allow you to change many things, including but not limited to:
 * Background image
-* Accent color
+* Accent colore
 * Up to three fonts
 * Home icon
 * Background cover colors
